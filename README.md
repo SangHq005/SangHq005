@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Mình là Quốc Sang. Hiện tại, mình đang là sinh viên năm nhất chuyên ngành Software Engineering tại UIT.</h2>
+<h2 align="left">Hi 👋! Mình là Quốc Sang. Hiện tại, mình đang là sinh viên chuyên ngành Software Engineering tại UIT.</h2>
 
 ###
 
